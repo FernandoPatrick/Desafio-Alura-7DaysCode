@@ -2,7 +2,7 @@
 
 Esse projeto foi realizado para um desafio de 7 dias de código criado pela Alura, uma empresa de educação em tecnologia.
 
-O design do projeto foi construído no Figma, e os alunos têm como desafio reproduzir esse layout em código sendo também responsivo, utilizando as tecnologias HTML (linguagem de marcação) e CSS (linguagem de estilos), praticando tudo o que aprenderam sobre.
+O design do projeto foi construído no Figma, e os alunos têm como desafio reproduzir esse layout em código sendo também responsivo, utilizando as tecnologias HTML e CSS, praticando tudo o que aprenderam sobre.
 
 
 
